@@ -46,7 +46,7 @@ Actual: Description text
 - Better to have "Action Available" for how to access it and use
 - For the services section, instead of saying nothing, tell what are the services at the station
 - About the distance from the current location, improve the spell of the number while right now the number spell is not accurate.
-- The opening time has to change, for instance, instead of "six slash twenty-two" change to reasonable time telling.
+- The opening time has to change, for instance, instead of "six slash twenty-two" change to standard time reading format.
 
 ![IMG_67F2E4A8A480-1.jpeg](images/issues-5.jpg)
 
